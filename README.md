@@ -27,7 +27,7 @@ I'm [Valentin Libouton](https://www.linkedin.com/in/libouton/), passionate about
 
 
 ## Languages
-<div align="center">
+<p align="center">
 	<img src="./images/python.svg" height="50" alt="icone languages Python">
 	<img src="./images/bash.svg" height="50" alt="icone languages Bash">
 	<img src="./images/c.svg" height="50" alt="icone languages C">
@@ -35,7 +35,7 @@ I'm [Valentin Libouton](https://www.linkedin.com/in/libouton/), passionate about
 	<img src="./images/HTML5.svg" height="50" alt="icone languages HTML5">
 	<img src="./images/CSS3.svg" height="50" alt="icone languages CSS3">
 	<img src="./images/java.svg" height="50" alt="icone languages JAVA">
-</div>	
+</p>	
 
 ## Python Libraries
 * List of Python libraries used by frequency of use, the most common are omitted  
