@@ -28,12 +28,12 @@ I'm [Valentin Libouton](https://www.linkedin.com/in/libouton/), passionate about
 
 ## Languages
 <p align="center">
-	<img src="./images/python.svg" height="50" alt="icone languages Python">
-	<img src="./images/bash.svg" height="50" alt="icone languages Bash">
-	<img src="./images/c.svg" height="50" alt="icone languages C">
-	<img src="./images/sql.svg" height="50" alt="icone languages SQL">
-	<img src="./images/HTML5.svg" height="50" alt="icone languages HTML5">
-	<img src="./images/CSS3.svg" height="50" alt="icone languages CSS3">
+	<img src="./images/python.svg" height="50" alt="icone languages Python">&nbsp;
+	<img src="./images/bash.svg" height="50" alt="icone languages Bash">&nbsp;
+	<img src="./images/c.svg" height="50" alt="icone languages C">&nbsp;
+	<img src="./images/sql.svg" height="50" alt="icone languages SQL">&nbsp;
+	<img src="./images/HTML5.svg" height="50" alt="icone languages HTML5">&nbsp;
+	<img src="./images/CSS3.svg" height="50" alt="icone languages CSS3">&nbsp;
 	<img src="./images/java.svg" height="50" alt="icone languages JAVA">
 </p>	
 
