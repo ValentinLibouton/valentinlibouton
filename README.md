@@ -27,13 +27,7 @@ I'm [Valentin Libouton](https://www.linkedin.com/in/libouton/), passionate about
 
 
 ## Languages
-<img src="./images/python.svg" height="50" alt="icone languages Python">
-<img src="./images/bash.svg" height="50" alt="icone languages Bash">
-<img src="./images/c.svg" height="50" alt="icone languages C">
-<img src="./images/sql.svg" height="50" alt="icone languages SQL">
-<img src="./images/HTML5.svg" height="50" alt="icone languages HTML5">
-<img src="./images/CSS3.svg" height="50" alt="icone languages CSS3">
-<img src="./images/java.svg" height="50" alt="icone languages JAVA">
+<img src="./images/python.svg" height="50" alt="icone languages Python"><img src="./images/bash.svg" height="50" alt="icone languages Bash"><img src="./images/c.svg" height="50" alt="icone languages C"><img src="./images/sql.svg" height="50" alt="icone languages SQL"><img src="./images/HTML5.svg" height="50" alt="icone languages HTML5"><img src="./images/CSS3.svg" height="50" alt="icone languages CSS3"><img src="./images/java.svg" height="50" alt="icone languages JAVA">
 
 ## Python Libraries
 * List of Python libraries used by frequency of use, the most common are omitted  
