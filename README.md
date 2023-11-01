@@ -56,7 +56,7 @@ I'm [Valentin Libouton](https://www.linkedin.com/in/libouton/), passionate about
 ## Contact
 
 - LinkedIn : [Valentin Libouton](https://www.linkedin.com/in/libouton/)
-- 📫 : [git@libouton.be](git@libouton.be)
+- 📫 : [github@libouton.be](github@libouton.be)
 
 Feel free to explore my projects and contact me for any interesting collaborations or discussions.  
 I am open to new professional challenges 😉
