@@ -27,7 +27,7 @@ I'm [Valentin Libouton](https://www.linkedin.com/in/libouton/), passionate about
 
 
 ## Languages
-<div style="display: flex; justify-content: space-between;">
+<div align="center">
 	<img src="./images/python.svg" height="50" alt="icone languages Python">
 	<img src="./images/bash.svg" height="50" alt="icone languages Bash">
 	<img src="./images/c.svg" height="50" alt="icone languages C">
