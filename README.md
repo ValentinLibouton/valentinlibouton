@@ -39,11 +39,11 @@ I'm [Valentin Libouton](https://www.linkedin.com/in/libouton/), passionate about
 
 ## Python Libraries
 * List of Python libraries used by frequency of use, the most common are omitted  
-`📊 sqlite3` `📓 Jupyter` `🐼 Pandas` `🔢 Numpy` `📈 Matplotlib` `🌐 Flask` `➗ math` `📝 json` `🧠 scikit-learn` `💽 h5py`
-`📁 tqdm` `📷 opencv-python` `📧 mail-parser` `🍵 beautifulsoup4` `🔐 pyotp` `📪 mailbox` `📰 pdfkit` `🔗 python-dotenv`
+`🧠 tensorflow` `🧠 keras` `🧠 scikit-learn` `📷 openCV` `📊 sqlite3` `📓 Jupyter` `🐼 Pandas` `🔢 Numpy` `📈 Matplotlib` `🌐 Flask` `📝 json` `💽 h5py`
+`📁 tqdm` `📧 mail-parser` `🍵 beautifulsoup4` `🔐 pyotp` `📪 mailbox` `📰 pdfkit` `🔗 python-dotenv`
 `📆 python-dateutil` `⏰ pytz` `🎬 moviepy` `🎙️ speechrecognition` `🔊 pydub` `🎥 ffmpeg` `🧐 chardet` `💼 codecs` `🖼️ PIL`
 `📬 qrcode` `🔍 pyzbar` `📄 pypdf2` `📘 pymupdf` `📊 tabulate` `🌐 python-nmap` `📡 netifaces` `💻 psutil` `🌐 socket`
-`🌐 ipaddress` `🚗 openalpr` `🎯 argparse` `📷 cv2` `📁 shutil` `📚 collections` `🔗 itertools` `🖱️ pyautogui` `🖱️ click`
+`🌐 ipaddress` `🚗 openalpr` `🎯 argparse` `📁 shutil` `📚 collections` `🔗 itertools` `🖱️ pyautogui` `🖱️ click`
 
 
 * Embedded-specific Python libraries  
