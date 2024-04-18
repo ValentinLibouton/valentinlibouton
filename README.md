@@ -39,10 +39,11 @@ I'm [Valentin Libouton](https://www.linkedin.com/in/libouton/), passionate about
 
 ## Python Libraries
 * Specialized Python modules and tools for AI and machine learning<br>
-`🧠 tensorflow` `🧠 keras` `🧠 scikit-learn` `📷 openCV` `🧠 OpenAI` `🤖 ChatOpenAI` `🤖 HuggingFaceHub` `🖋️ PromptTemplate` `⛓️ LLMChain` `⛓️ SimpleSequentialChain` `🛠️ load_tools`
-`🛠️ initialise_agent` `🧬 AgentType` `📚 wikipedia` `📚 get_all_tool_names` `🔧 PlanAndExecute` `🛠️ load_agent_executor` `🛠️ load_chat_planner` `🌐 SerpAPIWrapper` `⛓️ LLMMathChain`
-`📚 WikipediaAPIWrapper` `🛠️ Tool` `⛓️ ConversationChain` `📚 ChatMessageHistory` `📚 ConversationBufferMemory` `🖋️ messages_from_dict` `🖋️ messages_to_dict` `📚 TextLoader`
-`🔧 RecursiveCharacterTextSplitter` `🧬 OpenAIEmbeddings` `🎨 Chroma` `🔍 RetrievalQA`
+`🧠 tensorflow` `🧠 keras` `🧠 scikit-learn` `📷 openCV` `🧠 OpenAI` `🤖 ChatOpenAI` `🤖 HuggingFaceHub` `🖋️ PromptTemplate`
+`⛓️ LLMChain` `⛓️ SimpleSequentialChain` `🛠️ load_tools` `🛠️ initialise_agent` `🧬 AgentType` `📚 wikipedia` `📚 get_all_tool_names`
+`🔧 PlanAndExecute` `🛠️ load_agent_executor` `🛠️ load_chat_planner` `🌐 SerpAPIWrapper` `⛓️ LLMMathChain` `📚 WikipediaAPIWrapper`
+`🛠️ Tool` `⛓️ ConversationChain` `📚 ChatMessageHistory` `📚 ConversationBufferMemory` `🖋️ messages_from_dict` `🖋️ messages_to_dict`
+`📚 TextLoader` `🔧 RecursiveCharacterTextSplitter` `🧬 OpenAIEmbeddings` `🎨 Chroma` `🔍 RetrievalQA`
 
 * List of Python libraries used by frequency of use, the most common are omitted<br>
 `📊 sqlite3` `📓 Jupyter` `🐼 Pandas` `🔢 Numpy` `📈 Matplotlib` `🌐 Flask` `💽 h5py`
