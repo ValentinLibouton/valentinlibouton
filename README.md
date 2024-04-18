@@ -49,11 +49,13 @@ I'm [Valentin Libouton](https://www.linkedin.com/in/libouton/), passionate about
 * List of Python libraries used by frequency of use, the most common are omitted<br>
 `📊 sqlite3` `📓 Jupyter` `🐼 Pandas` `🔢 Numpy` `📈 Matplotlib` `🌐 Flask` `💽 h5py`
 `📁 tqdm` `📧 mail-parser` `🍵 beautifulsoup4` `🔐 pyotp` `📰 pdfkit` `🔗 python-dotenv` `📆 python-dateutil` `⏰ pytz` `🎬 moviepy`
-`🎙️ speechrecognitiFon` `🔊 pydub` `🎥 ffmpeg` `🧐 chardet` `🖼️ PIL` `📬 qrcode` `🔍 pyzbar` `📄 pypdf2` `📘 pymupdf` `📊 tabulate` `🌐 python-nmap` `📡 netifaces` `💻 psutil` `🚗 openalpr` `🖱️ pyautogui` `🖱️ click`
+`🎙️ speechrecognitiFon` `🔊 pydub` `🎥 ffmpeg` `🧐 chardet` `🖼️ PIL` `📬 qrcode` `🔍 pyzbar` `📄 pypdf2` `📘 pymupdf` `📊 tabulate` `🌐 python-nmap` `📡 netifaces` `💻 psutil`  
+`🚗 openalpr` `🖱️ pyautogui` `🖱️ click`
 
 * Embedded-specific Python libraries<br>
 `🌐 pyserial` `🔌 smbus` `🤖 machine` `🖥️ pico_i2c_lcd` `🖥️ lcd_api` `🖼️ framebuf` `🕹️ adafruit_hid` `🧰 board` 
-`📟 digitalio` `💽 usb_hid` `🎩 sense-hat`
+`📟 digitalio`  
+`💽 usb_hid` `🎩 sense-hat`
 
 
 ## Recent Projects
