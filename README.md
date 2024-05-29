@@ -27,7 +27,7 @@ I started developing Bash, C Java and assembler in 2013 during my bachelor's deg
 
 <a href="http://www.github.com/ValentinLibouton"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ValentinLibouton&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![ValentinLibouton's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ValentinLibouton&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Valentin Libouton github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ValentinLibouton)](https://github.com/ValentinLibouton/github-readme-activity-graph)
 
 
 
