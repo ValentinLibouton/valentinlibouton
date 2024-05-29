@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Valentin Libouton
 =========================================================================================================================================
 
-Python Developer - AI Developer
+Python / AI Developer
 -------------------------------
 
 I started developing Bash, C Java and assembler in 2013 during my bachelor's degree in electronics in embedded electronic equipment. After that, I learned Python, SQL, HTML, CSS and specialized in artificial intelligence. Today, I'm working on personal projects and training courses to learn more, and I'm always open to new challenges.
