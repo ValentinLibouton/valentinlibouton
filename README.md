@@ -1,75 +1,28 @@
-<!--
-**ValentinLibouton/valentinlibouton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Valentin Libouton=========================================================================================================================================Python Developer - AI Developer-------------------------------I started developing Bash, C Java and assembler in 2013 during my bachelor's degree in electronics in embedded electronic equipment. After that, I learned Python, SQL, HTML, CSS and specialized in artificial intelligence. Today, I'm working on personal projects and training courses to learn more, and I'm always open to new challenges.* 🌍  I'm based in la louvière* ✉️  You can contact me at [github@libouton.be](mailto:github@libouton.be)* 🚀  I'm currently working on [Study of algorithms to optimize a future project (currently private)](http://github.com/ValentinLibouton/Algorithms)* 🧠  I'm learning Artificial Intelligence and algorithms* 🤝  I'm open to collaborating on interesting projects* ⚡  I love hiking, cycling and caving!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Welcome to my GitHub profile 👋
-
-I'm [Valentin Libouton](https://www.linkedin.com/in/libouton/), passionate about electronics and programming.
+### Skills
 
 
-<!--![Image](https://avatars.githubusercontent.com/u/97308348?s=96&v=4)-->
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a></p>
+### Socials<p align="left"> <a href="https://www.github.com/ValentinLibouton" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/libouton" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-## About me
-- 🚀 I am currently working on an artificial intelligence project
-- 🌱 I'm currently learning: Artificial Intelligence in Python, BI.
-- 👯 I am open to collaboration on open source projects
-- 🔭 The majority of my projects are unlisted, if one of them can help the community I will make it public
+### Badges
 
+<b>My GitHub Stats</b>
 
-## Languages
-<p align="center">
-	<img src="./images/python.svg" height="50" alt="icone languages Python">&nbsp;
-	<img src="./images/bash.svg" height="50" alt="icone languages Bash">&nbsp;
-	<img src="./images/c.svg" height="50" alt="icone languages C">&nbsp;
-	<img src="./images/sql.svg" height="50" alt="icone languages SQL">&nbsp;
-	<img src="./images/HTML5.svg" height="50" alt="icone languages HTML5">&nbsp;
-	<img src="./images/CSS3.svg" height="50" alt="icone languages CSS3">&nbsp;
-	<img src="./images/java.svg" height="50" alt="icone languages JAVA">
-</p>	
+<a href="http://www.github.com/ValentinLibouton"><img src="https://github-readme-stats.vercel.app/api?username=ValentinLibouton&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ValentinLibouton's GitHub stats" /></a>
 
-## Python Libraries
-* Specialized Python modules and tools for AI and machine learning<br>
-`🧠 tensorflow` `🧠 keras` `🧠 scikit-learn` `📷 openCV` `🧠 OpenAI` `🤖 ChatOpenAI` `🤖 HuggingFaceHub` `🖋️ PromptTemplate`  
-`⛓️ LLMChain` `⛓️ SimpleSequentialChain` `🛠️ load_tools` `🛠️ initialise_agent` `🧬 AgentType` `📚 wikipedia`  
-`📚 get_all_tool_names` `🔧 PlanAndExecute` `🛠️ load_agent_executor` `🛠️ load_chat_planner` `🌐 SerpAPIWrapper`  
-`⛓️ LLMMathChain` `📚 WikipediaAPIWrapper` `🛠️ Tool` `⛓️ ConversationChain` `📚 ChatMessageHistory`  
-`📚 ConversationBufferMemory` `🖋️ messages_from_dict` `🖋️ messages_to_dict` `📚 TextLoader`  
-`🔧 RecursiveCharacterTextSplitter` `🧬 OpenAIEmbeddings` `🎨 Chroma` `🔍 RetrievalQA`
+<a href="http://www.github.com/ValentinLibouton"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ValentinLibouton&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-* List of Python libraries used by frequency of use, the most common are omitted<br>
-`📊 sqlite3` `📓 Jupyter` `🐼 Pandas` `🔢 Numpy` `📈 Matplotlib` `🌐 Flask` `💽 h5py`
-`📁 tqdm` `📧 mail-parser` `🍵 beautifulsoup4` `🔐 pyotp` `📰 pdfkit` `🔗 python-dotenv` `📆 python-dateutil` `⏰ pytz` `🎬 moviepy`
-`🎙️ speechrecognitiFon` `🔊 pydub` `🎥 ffmpeg` `🧐 chardet` `🖼️ PIL` `📬 qrcode` `🔍 pyzbar` `📄 pypdf2` `📘 pymupdf` `📊 tabulate` `🌐 python-nmap` `📡 netifaces` `💻 psutil`  
-`🚗 openalpr` `🖱️ pyautogui` `🖱️ click`
+<a href="http://www.github.com/ValentinLibouton"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ValentinLibouton&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-* Embedded-specific Python libraries<br>
-`🌐 pyserial` `🔌 smbus` `🤖 machine` `🖥️ pico_i2c_lcd` `🖥️ lcd_api` `🖼️ framebuf` `🕹️ adafruit_hid` `🧰 board` 
-`📟 digitalio`  
-`💽 usb_hid` `🎩 sense-hat`
+<a href="https://github.com/ValentinLibouton" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinLibouton&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<b>Top Repositories</b>
 
-## Recent Projects
-- [My personal library for machine learning](https://github.com/ValentinLibouton/MachineLearningUtils): Simplifies my machine learning projects
-- [TensorFlow Developer Certificate](https://github.com/ValentinLibouton/TensorFlow_Developer_Certificate_Bootcamp): This directory is a bootcamp to deepen my knowledge of deep learning.
-- [MessageTrackPro](https://github.com/ValentinLibouton/MessageTrackPro.git) : This project allows tracking and merging of emails, sms and mms, and allows advanced searches
-- [PiZeroKeystrokesInjection](https://github.com/ValentinLibouton/PiZeroKeystrokesInjection.git) : This project allows to inject keystrokes such as a keyboard in an automated way like the Rubber Ducky from Hak5.org does
-- [CAN BUS Analyser](https://drive.proton.me/urls/6WJKTX57J0#xgB9g7e8vhkf) : This project is the creation of a box to analyze the CAN BUS of vehicles using the FMS Standard protocol
+<div width="100%" align="center"><a href="https://github.com/ValentinLibouton/TensorFlow_Developer_Certificate_Bootcamp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinLibouton&repo=TensorFlow_Developer_Certificate_Bootcamp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ValentinLibouton/MachineLearningUtils" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinLibouton&repo=MachineLearningUtils&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+<br /><br /><br /><br /><br />
 
-## Contact
-
-- LinkedIn : [Valentin Libouton](https://www.linkedin.com/in/libouton/)
-- 📫 : [github@libouton.be](github@libouton.be)
-
-Feel free to explore my projects and contact me for any interesting collaborations or discussions.  
-I am open to new professional challenges 😉
+<div width="100%" align="center"><a href="https://github.com/ValentinLibouton/PiZeroKeystrokesInjection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinLibouton&repo=PiZeroKeystrokesInjection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ValentinLibouton/MessageTrackPro" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinLibouton&repo=MessageTrackPro&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
