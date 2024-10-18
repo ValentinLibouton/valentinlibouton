@@ -6,7 +6,7 @@ Python / AI Developer
 
 I started developing Bash, C Java and assembler in 2013 during my bachelor's degree in electronics in embedded electronic equipment. After that, I learned Python, SQL, HTML, CSS and specialized in artificial intelligence. Today, I'm working on personal projects and training courses to learn more, and I'm always open to new challenges.
 
-*   🌍  I'm based in la louvière
+*   🌍  I'm based in Belgium
 *   ✉️  You can contact me at [github@libouton.be](mailto:github@libouton.be)
 *   🚀  I'm currently working on [Study of algorithms to optimize a future project (currently private)](http://github.com/ValentinLibouton/Algorithms)
 *   🧠  I'm learning Artificial Intelligence and algorithms
